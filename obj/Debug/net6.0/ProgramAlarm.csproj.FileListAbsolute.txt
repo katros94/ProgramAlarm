@@ -1,0 +1,15 @@
+C:\Users\katri\source\repos\ProgramAlarm\bin\Debug\net6.0\ProgramAlarm.exe
+C:\Users\katri\source\repos\ProgramAlarm\bin\Debug\net6.0\ProgramAlarm.deps.json
+C:\Users\katri\source\repos\ProgramAlarm\bin\Debug\net6.0\ProgramAlarm.runtimeconfig.json
+C:\Users\katri\source\repos\ProgramAlarm\bin\Debug\net6.0\ProgramAlarm.dll
+C:\Users\katri\source\repos\ProgramAlarm\bin\Debug\net6.0\ProgramAlarm.pdb
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.csproj.AssemblyReference.cache
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.AssemblyInfoInputs.cache
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.AssemblyInfo.cs
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.csproj.CoreCompileInputs.cache
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.dll
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\refint\ProgramAlarm.dll
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.pdb
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ProgramAlarm.genruntimeconfig.cache
+C:\Users\katri\source\repos\ProgramAlarm\obj\Debug\net6.0\ref\ProgramAlarm.dll
